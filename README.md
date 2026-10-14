@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Maria Malik
 
-<!--
-**mariamalik2105/mariamalik2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Cincinnati, graduating May 2027. Building software through full-stack development, automation, and user-centered design. Looking for new grad software engineering and AI/data roles.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Technical Chair for CEAS Ambassadors, developing and maintaining our website
+- Research Assistant contributing to NSF RIEF and IUSE projects
+- UX Research Lead & Developer for my senior design team
+- Creator of [SmartCase](https://smart-suitcase.vercel.app/), an interactive smart suitcase prototype
+- International swimmer, national skater, and creative at heart
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/maria-malik-3b8524215) · [Portfolio](https://sites.google.com/view/mariamalik2105/user-interface-i)
+
+## Languages and Tools
+
+Python • Java • JavaScript • C++ • SQL • R • HTML/CSS • React • Svelte • Git • MySQL • Jira
