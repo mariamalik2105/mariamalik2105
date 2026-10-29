@@ -12,7 +12,7 @@ CS student at the University of Cincinnati, graduating May 2027. Building softwa
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/maria-malik-3b8524215) · [Portfolio](https://sites.google.com/view/mariamalik2105/user-interface-i)
+[LinkedIn](https://www.linkedin.com/in/maria-malik-3b8524215) · [Portfolio](https://sites.google.com/view/mariamalik2105)
 
 ## Languages and Tools
 
